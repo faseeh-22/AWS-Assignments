@@ -77,12 +77,12 @@ Together, these services form a robust security and compliance ecosystem. CloudT
 
 **Q3b.What is the relation between cloudtrail, security-hub and aws config ? Kindly explain in short paragraph in easy words.**
 
-CloudTrail, Security Hub, and AWS Config are AWS services that work together to enhance the security and compliance of your AWS environment.
+- CloudTrail, Security Hub, and AWS Config are AWS services that work together to enhance the security and compliance of your AWS environment.
 
-CloudTrail records API activity in your AWS account, providing a detailed history of actions taken by users, services, or other AWS resources. It helps in monitoring and auditing changes made to your resources.
+- CloudTrail records API activity in your AWS account, providing a detailed history of actions taken by users, services, or other AWS resources. It helps in monitoring and auditing changes made to your resources.
 
-AWS Config assesses and audits the configurations of your AWS resources, tracking changes over time. It helps you ensure compliance with your security policies and provides a detailed inventory of your resources.
+- AWS Config assesses and audits the configurations of your AWS resources, tracking changes over time. It helps you ensure compliance with your security policies and provides a detailed inventory of your resources.
 
-Security Hub is a comprehensive security service that aggregates and prioritizes security findings from various AWS and third-party sources. It helps you quickly identify and respond to potential security issues in your environment.
+- Security Hub is a comprehensive security service that aggregates and prioritizes security findings from various AWS and third-party sources. It helps you quickly identify and respond to potential security issues in your environment.
 
 Together, CloudTrail, Security Hub, and AWS Config provide a robust security and compliance framework. CloudTrail captures the history of actions, AWS Config assesses the configurations, and Security Hub centralizes and prioritizes security findings, allowing you to maintain a secure and well-managed AWS environment.
