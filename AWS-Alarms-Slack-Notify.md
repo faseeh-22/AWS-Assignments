@@ -261,7 +261,7 @@ Ensure that you are using a version of the AWS CLI that supports the ce (Cost Ex
 Make sure it's a recent version that supports the ce commands.
 
 ## Verify IAM permissions:
-	Ensure that the IAM user associated with the alarm-bills-user profile has the necessary permissions to execute the ce get-cost-and-usage command.
+Ensure that the IAM user associated with the alarm-bills-user profile has the necessary permissions to execute the `ce get-cost-and-usage` command.
 
 After performing these steps, try running your script again. If the issue persists, double-check the AWS CLI configuration and IAM permissions.
 
