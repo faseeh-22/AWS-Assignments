@@ -14,8 +14,11 @@ Following are the steps to complete the assignment.
 - AWS configure
 
 AWS Access Key ID [None]: Your_AWS_Access_Key
+
 AWS Secret Access Key [None]: Your_AWS_Secret_Key
+
 Default region name [None]: us-east-1
+
 Default output format [None]: json
 
 - ansible-galaxy collection install community.aws   (NOTE: use this command in case of error, if you use "aws.community" module)
