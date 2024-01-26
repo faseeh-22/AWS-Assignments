@@ -73,7 +73,8 @@ the load balancer's routing algorithm, such as round robin or least connections,
 and Auto Scaling groups can be integrated to automatically adjust the number of instances based on traffic fluctuations.
 Monitoring tools, like CloudWatch, help track performance metrics and detect any issues. Overall, effective traffic management
 involves thoughtful configuration, monitoring, and adjustments to optimize the performance and reliability of your application.
-4b.How to manage traffic for aws loadbalancer ? Kindly explain in short paragraph in easy words.
+
+**4b.How to manage traffic for aws loadbalancer ? Kindly explain in short paragraph in easy words.**
 
 Managing traffic for an AWS Load Balancer involves distributing incoming requests across multiple servers to ensure efficient
 and reliable application delivery. AWS offers Elastic Load Balancing (ELB) services to help with this. First, create a load balancer
