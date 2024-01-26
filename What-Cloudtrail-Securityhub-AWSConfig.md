@@ -64,8 +64,11 @@ Adjust the parameters based on your requirements and use case.
 **Q3.What is the relation between cloudtrail, security-hub and aws config ? Kindly explain in short paragraph.**
 
 1.AWS CloudTrail, AWS Security Hub, and AWS Config are three AWS services that work together to provide comprehensive security and compliance monitoring for AWS environments.
+
 2.AWS CloudTrail records API calls and activities within your AWS account, creating a trail of events that can be used for auditing, compliance, and security analysis.
+
 3.AWS Config helps you assess, audit, and evaluate the configurations of your AWS resources over time. It provides a detailed inventory of your resources and records changes to resource configurations.
+
 4.AWS Security Hub aggregates and prioritizes security findings from various AWS services, partner solutions, and custom checks. It provides a centralized view of your security posture and helps you identify and remediate security issues.
 
 Together, these services form a robust security and compliance ecosystem. CloudTrail provides detailed event logs, Config maintains configuration history, and Security Hub centralizes and prioritizes security findings, enabling organizations to have a comprehensive and proactive approach to managing the security of their AWS environments.
